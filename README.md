@@ -5,7 +5,11 @@ This fix is a port of [this exact commit](https://github.com/momentum-mod/game/c
 
 Currently there's a support for CSGO and CSS, and I'm not planning on supporting any other game.
 
-# Video examples
+## Requirements
+* [Dhooks with detour support v15 or higher](https://forums.alliedmods.net/showpost.php?p=2588686&postcount=589);
+* SourceMod 1.10 or higher.
+
+## Video examples
 [Video Example of the plugin](https://www.youtube.com/watch?v=6--_WFe5P3Q)
 
 [Practical Video Example](https://www.youtube.com/watch?v=X9Cg42gFKtc)
